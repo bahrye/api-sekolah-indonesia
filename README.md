@@ -4,7 +4,7 @@
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://pages.cloudflare.com)
 [![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://developers.cloudflare.com/d1)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Contributor: Syamsul Bahri](https://img.shields.io/badge/Contributor-Syamsul%20Bahri-blue?logo=github)](https://wa.me/qr/FMVS3NLDIRUAA1)
+[![Contributor: Syamsul Bahri](https://img.shields.io/badge/Contributor-Syamsul%20Bahri-blue??style=for-the-badge&logo=github)](https://wa.me/qr/FMVS3NLDIRUAA1)
 
 **EduAPI Indonesia** adalah gateway API super cepat berbasis *Edge Serverless* untuk mengakses ratusan ribu data master satuan pendidikan di seluruh Indonesia (dan sekolah luar negeri di bawah pembinaan Indonesia). 
 
