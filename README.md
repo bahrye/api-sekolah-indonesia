@@ -3,7 +3,6 @@
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://pages.cloudflare.com)
 [![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://developers.cloudflare.com/d1)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **EduAPI Indonesia** adalah gateway API super cepat berbasis *Edge Serverless* untuk mengakses ratusan ribu data master satuan pendidikan di seluruh Indonesia (dan sekolah luar negeri di bawah pembinaan Indonesia). 
 
@@ -216,7 +215,7 @@ Berikut adalah format respons JSON standar yang dikembalikan oleh `/api/sekolah`
 
 Proyek ini bersifat open-source. Jika Anda menemukan bug atau ingin menambahkan fitur baru, silakan buka *Issue* atau kirimkan *Pull Request*.
 
-* **Developer**: [Syamsul Bahri](https://github.com/syamsulbahri)
+* **Developer**: [Syamsul Bahri](https://github.com/bahrye)
 * **Hubungi**: [WhatsApp Developer](https://wa.me/qr/FMVS3NLDIRUAA1)
 
 ---
