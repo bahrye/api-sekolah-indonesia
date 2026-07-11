@@ -173,44 +173,6 @@ Berikut adalah format respons JSON standar yang dikembalikan oleh `/api/sekolah`
 
 ---
 
-## 🛠️ Pengembangan Lokal & Deployment
-
-### Prasyarat
-- Node.js versi terbaru
-- Cloudflare Wrangler CLI (`npm install -g wrangler`)
-
-### Langkah-langkah
-1. **Kloning Repositori**:
-   ```bash
-   git clone https://github.com/username/api-sekolah.git
-   cd api-sekolah
-   ```
-
-2. **Instal Dependensi**:
-   ```bash
-   npm install
-   ```
-
-3. **Konfigurasi Environment**:
-   Salin `.dev.vars.example` ke `.dev.vars` untuk pengembangan lokal.
-   ```bash
-   cp .dev.vars.example .dev.vars
-   ```
-
-4. **Jalankan Lokal**:
-   Untuk menjalankan database dan server simulasi Cloudflare Pages Functions secara lokal:
-   ```bash
-   npx wrangler pages dev .
-   ```
-
-5. **Deploy ke Cloudflare**:
-   Pastikan Anda sudah login ke akun Cloudflare melalui CLI, lalu jalankan script deploy:
-   ```bash
-   npm run deploy
-   ```
-
----
-
 ## 🤝 Kontribusi & Dukungan
 
 Proyek ini bersifat open-source. Jika Anda menemukan bug atau ingin menambahkan fitur baru, silakan buka *Issue* atau kirimkan *Pull Request*.
