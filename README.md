@@ -22,7 +22,7 @@ https://api-sekolah-kita.pages.dev
 
 ## 🚀 Github URL Access
 
-Link Guthub:
+Link Github:
 
 ```http
 https://github.com/bahrye/api-sekolah
