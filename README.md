@@ -20,6 +20,14 @@ Semua request API dapat diarahkan ke base URL berikut:
 https://api-sekolah-kita.pages.dev
 ```
 
+## 🚀 Github URL Access
+
+Link Guthub:
+
+```http
+https://github.com/bahrye/api-sekolah
+```
+
 ---
 
 ## 🗺️ Fitur Utama
